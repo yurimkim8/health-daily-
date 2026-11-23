@@ -1,1 +1,782 @@
-[]
+[
+  {
+    "id": "7783522d9ca314c28e74",
+    "category": "법령·입법예고",
+    "title": "[창간 40주년 특집] 상호시장 개방 부작용 낳아···전문건설업체는 높은 진입장벽에 막혀 - 대한전문건설신문",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1yNWZOdzB5V2pldzQ2ay1RN0FDX2FSMXlIWkpXQ21Ob2pvaWNxb1dGWm1SMVhsUktKU0FraGZyV05PdVRWV2RsOHdWckRMZlFzc3VYUjFBUEtmcEt2R2lLUHFuenlsX2My0gFsQVVfeXFMTkZGeUk3X1FwcGI0QkhVYmR4dGdnVkw0WjBDVmpNS1lvRTdoVk9tVGN3ZFhrZ29rTkJCWnRFN3g1LXVKd181OFpfSWJyRndha1M1SVdpMkN4OE1WRkxQckpNRWJ5Y1VRWUN5V3Bz?oc=5",
+    "date": "2026-11-23",
+    "summary": "[창간 40주년 특집] 상호시장 개방 부작용 낳아···전문건설업체는 높은 진입장벽에 막혀 대한전문건설신문",
+    "source": "대한전문건설신문",
+    "collected_at": "2026-11-23T13:44:11.337078+09:00"
+  },
+  {
+    "id": "a4678a34149848573115",
+    "category": "법령·입법예고",
+    "title": "근로자의 말이 요건이 되는 해 - 브런치",
+    "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1BTUdoV2ZBMlBoVkdFRUZpMlBySjhEdm9jcHpwZU5WZmhnX0x2S0dUX29tUEhON0UzWmJYaGFPeWRGUDlsR0E?oc=5",
+    "date": "2026-11-23",
+    "summary": "근로자의 말이 요건이 되는 해 브런치",
+    "source": "브런치",
+    "collected_at": "2026-11-23T13:44:11.337078+09:00"
+  },
+  {
+    "id": "6fb7903605fec8e37828",
+    "category": "법령·입법예고",
+    "title": "제주시, 하반기 근로자 산업안전보건 특별교육 실시 - 뉴스N제주",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1mMV9EMVE1bEtXWmdLbktFZC03ekFuRVg5NlBZcWg3aHBkOFdtTE9wYS1FYzlXallpbnFUOE9kalU4c2xFaU53cUwwcmNVLWR6OG96czVScExDWklvNXJ1TkNvVWw1U3hDLTlYRg?oc=5",
+    "date": "2026-11-23",
+    "summary": "제주시, 하반기 근로자 산업안전보건 특별교육 실시 뉴스N제주",
+    "source": "뉴스N제주",
+    "collected_at": "2026-11-23T13:44:11.337078+09:00"
+  },
+  {
+    "id": "04d71321d3d1bb5fcd4c",
+    "category": "법령·입법예고",
+    "title": "제주시, 하반기 근로자 산업안전보건 특별교육 - 제주환경일보",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE4xMURHRGE3VFRUblhtSy1pNzU1R1c4Um02WGcyT1dYYXQ3Q1dvakhaMnduT3o1ekZZbkpQejV0cUV0Y2UtUWg4N05NaFE5UlhaQXR2XzhYclJnZGJUWGFPNmpiTW5GMnJp?oc=5",
+    "date": "2026-11-23",
+    "summary": "제주시, 하반기 근로자 산업안전보건 특별교육 제주환경일보",
+    "source": "제주환경일보",
+    "collected_at": "2026-11-23T13:44:11.337078+09:00"
+  },
+  {
+    "id": "49e3724d32d134acc30b",
+    "category": "화학물질 규제",
+    "title": "커리어넷, ‘2026 스마트건설·안전·AI 엑스포(SCX 2026)’ 참가 - 경상일보",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE16VzBhVzYxeUp6TW1ROGlkMExyWGU2dEFlLTN2WVpjclJyVnM4NU44UHNOUE5HYk5FMWJkRVFIWlJzQ0FSZEZ4TVQ4bEMwdVpZRXpOTnBRWEx2WTZkZ0xEZDBRV1pQa1E4Y3gycw?oc=5",
+    "date": "2026-11-23",
+    "summary": "커리어넷, ‘2026 스마트건설·안전·AI 엑스포(SCX 2026)’ 참가 경상일보",
+    "source": "경상일보",
+    "collected_at": "2026-11-23T13:44:11.337078+09:00"
+  },
+  {
+    "id": "8a6abc869f56334c4b0e",
+    "category": "공지·지침",
+    "title": "[메디컬아시아 2026] 강북삼성병원 예방건진센터, 특수건강검진 부문상 수상 - 미주중앙일보",
+    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE94LW5yZllhQ1BWSWU2N3lXRnFkVGRKaHJaSDNpNVRyWHU4NnRCZ1EtQ1NmTGdyZzFrNDNyQ2dOaW44MU9tVndRbWs1YmtLZS1Fa3YzRm5xZXpYQnAwajlITE5R?oc=5",
+    "date": "2026-11-23",
+    "summary": "[메디컬아시아 2026] 강북삼성병원 예방건진센터, 특수건강검진 부문상 수상 미주중앙일보",
+    "source": "미주중앙일보",
+    "collected_at": "2026-11-23T13:44:11.337078+09:00"
+  },
+  {
+    "id": "6cd96f4d508df834d258",
+    "category": "뉴스",
+    "title": "직장인 3명 중 1명 “하루하루 버티는 수준”…직무 스트레스·불안 심화 - 메디컬투데이",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9QXzFFbVp0eHdiLUplcFlTRV9sM2kzSlFjNEJPeXM5S1RVZVFCVGgxSXRVTDVVa3FTQzNDa2ZKdHFHNzJlZF9JcmlDY2xEaWFBU2FHQzRwc3ZPanlyeFp0TG44V3g5YmxNcUY1TQ?oc=5",
+    "date": "2026-11-22",
+    "summary": "직장인 3명 중 1명 “하루하루 버티는 수준”…직무 스트레스·불안 심화 메디컬투데이",
+    "source": "메디컬투데이",
+    "collected_at": "2026-11-23T13:44:11.337078+09:00"
+  },
+  {
+    "id": "4dccb20a03691aec639d",
+    "category": "채용",
+    "title": "직업건강협회, '2026 직업건강 연합학술대회' 성료 - 라포르시안",
+    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE16Z2Ntd1ZIckZnTUl1aHdEQkdiVTJaMW94TGFKTmRFVmVQTHpBU2xDR0s3RUNiVEFXekx0Rm1sVGFySlVZQjZhOUJ0N1RaYWNWai0zaGRxbVR6Q08wYVlsMjRwdmUwVm81VG1OYnVR?oc=5",
+    "date": "2026-11-22",
+    "summary": "직업건강협회, '2026 직업건강 연합학술대회' 성료 라포르시안",
+    "source": "라포르시안",
+    "collected_at": "2026-11-23T13:44:11.337078+09:00"
+  },
+  {
+    "id": "8c1e24bf67344c04b940",
+    "category": "뉴스",
+    "title": "안전보건공단 인천광역본부, 산업현장 건강관리 우수사례 발굴 - 국토일보",
+    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE81WWNSYm8yUmR3NF8yc182MGxKaVRHZl9mUDN6WEx1Wl9lc2YyWEFJWWRFX3ZzdDVIeGV6U3BvVW0xTmkzUjhCT3d5aEZjODZVOWpVcFlTWTIwOGdwamNuYk0ybUo?oc=5",
+    "date": "2026-11-21",
+    "summary": "안전보건공단 인천광역본부, 산업현장 건강관리 우수사례 발굴 국토일보",
+    "source": "국토일보",
+    "collected_at": "2026-11-23T13:44:11.337078+09:00"
+  },
+  {
+    "id": "6551e7e8cf554c960bf7",
+    "category": "화학물질 규제",
+    "title": "삼성전자·SK하이닉스, 안전·환경경영 강화…대규모 증설 속 고도화 집중 - 블로터",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBRam5naWdDbDJuMXMxaThrLU9ZRFlxd3E5THRiMjN0djJReW11MzRSUjdWWEgteTdidGZkVjd1QjljZVJQUWlWcEhYSnVCNnIwMTNDSnJTYTFiQjJJRjZoQlBETEoyakdV0gFsQVVfeXFMUGVMSGEydl9mUEpoNkpLeF9OWlZCUndwa0hzZ2hUbTFGTGhhS1ZyalBVei1LdXhfXzRHYlBrZHRiQjV0ekRoWE5IRnVLQzVlbklJRW04ZGRsOVY5SFQ5WWZlclRxUlVaRUpNWU1Q?oc=5",
+    "date": "2026-11-21",
+    "summary": "삼성전자·SK하이닉스, 안전·환경경영 강화…대규모 증설 속 고도화 집중 블로터",
+    "source": "블로터",
+    "collected_at": "2026-11-23T13:44:11.337078+09:00"
+  },
+  {
+    "id": "cba5928d52cfa2b5ee71",
+    "category": "뉴스",
+    "title": "삼성바이오로직스 등 3곳, 근로자 건강증진 우수사업장 선정 - 안전신문",
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBDRmJQM1cyd1ZjMGNtcmM3ZmdVSG93UU5tNjZWSGlUWWl2aWhMZmVxZEVFMUlfNkNBTjBPRmp5NWJVa0JuaDlRRklocHdCeVJJUlhEdkVBOXg3ZTZ6ekpIMjRJY3haeko5RGROVVFLMng?oc=5",
+    "date": "2026-11-20",
+    "summary": "삼성바이오로직스 등 3곳, 근로자 건강증진 우수사업장 선정 안전신문",
+    "source": "안전신문",
+    "collected_at": "2026-11-23T13:44:11.337078+09:00"
+  },
+  {
+    "id": "d63fc1f505f95fa2625c",
+    "category": "뉴스",
+    "title": "제물포구, 현장근로자 직무스트레스 관리 대책 추진 - 경인뉴스통신",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBFOFZkcW1iUzRoNmRHaXFNN3BDWkxYYk9sSEYwX0ZhVmlVRzdNZVpWSUY3ejJYVmJaTEc5YjBYTmNTMlQ1X1FNNzE3SXRVLWhNdXRwQ19paTdnTkVSRElvV3B1eUEwa0VpLUE?oc=5",
+    "date": "2026-11-20",
+    "summary": "제물포구, 현장근로자 직무스트레스 관리 대책 추진 경인뉴스통신",
+    "source": "경인뉴스통신",
+    "collected_at": "2026-11-23T13:44:11.337078+09:00"
+  },
+  {
+    "id": "327dcb6bc18409fd65eb",
+    "category": "화학물질 규제",
+    "title": "[코오롱인더스트리 리스크] 아라미드 공급 경쟁·원재료값 상승… 합병 사업장 안전관리 부담 - 뉴스클레임",
+    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBoS0xyNkhOaHUwVmE0OFhwcll1aTBwYjhIc0pQTHBlWmdzRVVOM3dTU0JyTGFDQ0VRempFNWFwYlAtcWU4R1RHOFFWYXJZN1hjYlBtdUhyZkJ6akdnY29CWGVzUmljTkxLMUpUV295R29HMF9Z0gF0QVVfeXFMUGhLTHI2SE5odTBWYTQ4WHByWXVpMHBiOEhzSlBMcGVaZ3NFVU4zd1NTQnJMYUNDRVF6akU1YXBiUC1xZThHVEc4UVZhclk3WGNiUG11SHJmQnpqR2djb0JYZXNSaWNOTEsxSlRXb3lHb0cwX1k?oc=5",
+    "date": "2026-11-20",
+    "summary": "[코오롱인더스트리 리스크] 아라미드 공급 경쟁·원재료값 상승… 합병 사업장 안전관리 부담 뉴스클레임",
+    "source": "뉴스클레임",
+    "collected_at": "2026-11-23T13:44:11.337078+09:00"
+  },
+  {
+    "id": "50c1b51a84f16ee16f1a",
+    "category": "공지·지침",
+    "title": "“고개 덜 돌리려면?” 종이 원고는 모니터 아래에 - 비건뉴스",
+    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5PYkNFMGc3YWxfWkhHaHJWSDhaY1pNYlYtbkEzS1ZWcEJkWDN2dTRkRTk4ZjExU0R2SzdYSmkwaHRfMjVUTm9MRGlYejNpWFhNSjFtazBYUlY2V0ZtS3ZZWVFkT1dfQQ?oc=5",
+    "date": "2026-11-20",
+    "summary": "“고개 덜 돌리려면?” 종이 원고는 모니터 아래에 비건뉴스",
+    "source": "비건뉴스",
+    "collected_at": "2026-11-23T13:44:11.337078+09:00"
+  },
+  {
+    "id": "b0a56870c80da26b0a98",
+    "category": "채용",
+    "title": "카르나AI아시아, AI 건강관리 기술로 산업보건 분야 공략 - 연합뉴스",
+    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9HZ0YwaHB0cWd6bHpCWk9CYmdxTDQ3N19vT2Z6X1Q0MlVCYVRQaTh0bnE4eXMwZW9YcEFFNG42THphYmpUS1J5WHFKNDlINkRBVWhORUltRFd3UVHSAWBBVV95cUxNbEVFbTlfUnV1UXBIWjdrT0lIYXFzNUtGWlBjYXFweHlBTDJCZlVXbFM1TVhzTXRBcVZiMFd0U0hhMVUwRWhtN0tqc0ZIck8xQVRtOGU2X1dqdDNpS0tCQzA?oc=5",
+    "date": "2026-11-20",
+    "summary": "카르나AI아시아, AI 건강관리 기술로 산업보건 분야 공략 연합뉴스",
+    "source": "연합뉴스",
+    "collected_at": "2026-11-23T13:44:11.337078+09:00"
+  },
+  {
+    "id": "e1e5b6849af954903ce2",
+    "category": "채용",
+    "title": "남부지방산림청, 산림사업장 안전보건 점검 및 문화 확산 캠페인 실시 - 전국안전신문",
+    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE0yQ3d1MUl1ZmdrckFBTkVMR21hVkJaZWoydlFibEcyb1hUQ1BKZlZDNGE2bGgzczhDMVBXRHhVSkxHMmU3ajZfRGpxZXRJQQ?oc=5",
+    "date": "2026-11-20",
+    "summary": "남부지방산림청, 산림사업장 안전보건 점검 및 문화 확산 캠페인 실시 전국안전신문",
+    "source": "전국안전신문",
+    "collected_at": "2026-11-23T13:44:11.337078+09:00"
+  },
+  {
+    "id": "ed713e5f55dd38542b31",
+    "category": "뉴스",
+    "title": "직업병은 초기 단계부터 적극적으로 예방해야 합니다. - Vietnam.vn",
+    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBubzJKd0VOaDR3dUtfSEdyOHhEWFpMRG1zakVQMUJfZGowVE5BZnRzc2xVcFNZOWpUNEZ6elI2NldCX0djR1BfWDJvSjVMdVZlNW92dDNNb3U0LUF0M2s0cHhTV1FiYTFqZ1hxMzlYQm8ydw?oc=5",
+    "date": "2026-11-19",
+    "summary": "직업병은 초기 단계부터 적극적으로 예방해야 합니다. Vietnam.vn",
+    "source": "Vietnam.vn",
+    "collected_at": "2026-11-23T13:44:11.337078+09:00"
+  },
+  {
+    "id": "5fed8211223f5ede3589",
+    "category": "뉴스",
+    "title": "근로자 안전을 위한 조치 - Vietnam.vn",
+    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9sSDdRNUtfdUFkUWpGWnRkUkV6UHZSMFU4eUtMRlFyQ3VqY2NkZmN1alZ6LTcwOElJOTZKN1pmbjlnajdPSjdOUjdwb2VReDVjaWdLcnFSOHQwM1h3TEhiZG1rOGdJdnJpbU1EbTAxcFFOU2x4V0V3?oc=5",
+    "date": "2026-11-19",
+    "summary": "근로자 안전을 위한 조치 Vietnam.vn",
+    "source": "Vietnam.vn",
+    "collected_at": "2026-11-23T13:44:11.337078+09:00"
+  },
+  {
+    "id": "b13bbd36e36c1e68e0a4",
+    "category": "뉴스",
+    "title": "국립인천해양박물관, 직원 건강관리 공로 감사패 받아 - livesnews.com",
+    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE00Yi1PUjVDTkljYldQWDB6MEE1SndLbEV2cGd1cXZpREZOWW9DQ1Y4MGh1M1N4UUNwYUhYMW5ZMGtrVkc0WTI4NWdWZV85clRkZ2d6cWRoenVvOEJrZTY0THNR?oc=5",
+    "date": "2026-11-19",
+    "summary": "국립인천해양박물관, 직원 건강관리 공로 감사패 받아 livesnews.com",
+    "source": "livesnews.com",
+    "collected_at": "2026-11-23T13:44:11.337078+09:00"
+  },
+  {
+    "id": "b81338f9c2801bcff8a6",
+    "category": "화학물질 규제",
+    "title": "⑨ 1987년, 한국산업안전공단이 창립되다 - 안전저널",
+    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5pZmZzR2tzdTlneUJYTnVZa0JIUHNnZnZFNXRHNW04Y2Fhei1FV3ZHU1RMN3EzRnIwWGxYZ1BSQ3ZNUmt2a0ZKWGM5Zjhnc1J6cU82dU5ZVk4yUnlkNXE1c3VJMVkwNFk?oc=5",
+    "date": "2026-11-19",
+    "summary": "⑨ 1987년, 한국산업안전공단이 창립되다 안전저널",
+    "source": "안전저널",
+    "collected_at": "2026-11-23T13:44:11.337078+09:00"
+  },
+  {
+    "id": "4077130f0100454916f9",
+    "category": "화학물질 규제",
+    "title": "근로자 안전을 위한 조치 - Vietnam.vn",
+    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9sSDdRNUtfdUFkUWpGWnRkUkV6UHZSMFU4eUtMRlFyQ3VqY2NkZmN1alZ6LTcwOElJOTZKN1pmbjlnajdPSjdOUjdwb2VReDVjaWdLcnFSOHQwM1h3TEhiZG1rOGdJdnJpbU1EbTAxcFFOU2x4V0V3?oc=5",
+    "date": "2026-11-19",
+    "summary": "근로자 안전을 위한 조치 Vietnam.vn",
+    "source": "Vietnam.vn",
+    "collected_at": "2026-11-23T13:44:11.337078+09:00"
+  },
+  {
+    "id": "6c7ea9c8a4f18903e460",
+    "category": "화학물질 규제",
+    "title": "[OCI 리스크] 자본잠식 회사 인수 후 1348억 손상… TDI 철수·대표이사 재판 - 뉴스클레임",
+    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9MUUJNY1RQZHJmQm95Y1hHeGE0VmVoZUpGcjhMTUlKWHV5clYxNF81aFAtVjlHUkRMR21oVFFRaFI3cXdDWU9JYVBaWFZNeklaSTlxSTliUElDSDRNQ1QwUEF0R0Z4bF9BNGg3LVdyM2dsamZM0gF0QVVfeXFMT0xRQk1jVFBkcmZCb3ljWEd4YTRWZWhlSkZyOExNSUpYdXlyVjE0XzVoUC1WOUdSRExHbWhUUVFoUjdxd0NZT0lhUFpYVk16SVpJOXFJOWJQSUNINE1DVDBQQXRHRnhsX0E0aDctV3IzZ2xqZkw?oc=5",
+    "date": "2026-11-19",
+    "summary": "[OCI 리스크] 자본잠식 회사 인수 후 1348억 손상… TDI 철수·대표이사 재판 뉴스클레임",
+    "source": "뉴스클레임",
+    "collected_at": "2026-11-23T13:44:11.337078+09:00"
+  },
+  {
+    "id": "5887c042b01fb8517366",
+    "category": "재해·직업병 사례",
+    "title": "근로자 안전을 위한 조치 - Vietnam.vn",
+    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9sSDdRNUtfdUFkUWpGWnRkUkV6UHZSMFU4eUtMRlFyQ3VqY2NkZmN1alZ6LTcwOElJOTZKN1pmbjlnajdPSjdOUjdwb2VReDVjaWdLcnFSOHQwM1h3TEhiZG1rOGdJdnJpbU1EbTAxcFFOU2x4V0V3?oc=5",
+    "date": "2026-11-19",
+    "summary": "근로자 안전을 위한 조치 Vietnam.vn",
+    "source": "Vietnam.vn",
+    "collected_at": "2026-11-23T13:44:11.337078+09:00"
+  },
+  {
+    "id": "91e0d46d25f98f2ce686",
+    "category": "재해·직업병 사례",
+    "title": "닥락: 풀뿌리부터 안전한 근무 환경 조성. - Vietnam.vn",
+    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQM0ZhUE9CbnplUEl1ZzFxcHZtaFJBVkpocGF2UmZtY09PU1FQbnZSLTR4TGJGei0yRjM2LURHQnV4OG42cEx5MXB0aEt6VktsUC0xaWZaQVhvMW5QdXJIOEIyLVgzeFV3MTZZc2tqclgyU0RQSmlNQlpYVnZhTmpadnhjWVRnQQ?oc=5",
+    "date": "2026-11-19",
+    "summary": "닥락: 풀뿌리부터 안전한 근무 환경 조성. Vietnam.vn",
+    "source": "Vietnam.vn",
+    "collected_at": "2026-11-23T13:44:11.337078+09:00"
+  },
+  {
+    "id": "4bff4b153e0b6762623e",
+    "category": "재해·직업병 사례",
+    "title": "근로복지공단 “자살 산재 인정 28명 중 14명이 직장 내 괴롭힘” - 더메디컬",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9SVmFrTGp2TzZXby14MnVlMElLRDNDMjM1V29jOVJxMERHQklKXzhiVEQwMzJRc0RjTC1mMHlNaWFNTm9JVXkwQ3ZhZ2JTek1MQlgyRGFGaHRwVm9RN2lqZ1NWN2ZQa2NIUmfSAW5BVV95cUxPT21rWXFEb2VIdFNIQXVUVnpPUTR1UG05cnpBS3NnWDlxRUh0U0xlOGFQSENhbEt6WlU4S2QyTmw4UDg3d2NDQlpBTnUyNm9wdkhLWFJwMjJqeWtWdlh4djVLYzVCU2lBQjVsbi1NQQ?oc=5",
+    "date": "2026-11-19",
+    "summary": "근로복지공단 “자살 산재 인정 28명 중 14명이 직장 내 괴롭힘” 더메디컬",
+    "source": "더메디컬",
+    "collected_at": "2026-11-23T13:44:11.337078+09:00"
+  },
+  {
+    "id": "bb24c01e8e2c30bcc4cc",
+    "category": "지원사업",
+    "title": "국토안전원, ‘공공안전 쉼 프로그램’ 2차교육 주관 - 주간한국",
+    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9ldmR6alBEU3RPRVpiVms4THF3RGcxTDBZaFFzdGZ2Z1F5SE9xM1Z6a3IwRUJob3gxbE9pV3NUNm1MVVFIMU1SSkNpRTJXZHhXMmNuNHZka09mbm0xLU1icDhxZl9Sejhid0pmNjg2UTIxVG1G0gF0QVVfeXFMT2V2ZHpqUERTdE9FWmJWazhMcXdEZzFMMFloUXN0ZnZnUXlIT3EzVnprcjBFQmhveDFsT2lXc1Q2bUxVUUgxTVJKQ2lFMldkeFcyY240dmRrT2ZubTEtTWJwOHFmX1J6OGJ3SmY2ODZRMjFUbUY?oc=5",
+    "date": "2026-11-19",
+    "summary": "국토안전원, ‘공공안전 쉼 프로그램’ 2차교육 주관 주간한국",
+    "source": "주간한국",
+    "collected_at": "2026-11-23T13:44:11.337078+09:00"
+  },
+  {
+    "id": "4a056a771da0975b3736",
+    "category": "채용",
+    "title": "일하는 모든 사람이 안전하게 퇴근하는 길 [세상읽기] - 한겨레",
+    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1ORHVBbGtuNDQxSGk0LWdSQ0JIOTVlVmlhZHNIN09MSEhiOVdtQ2UxaUZHcXh2T2kxdGx5NFNjYjVscmlHazBjbS12aUdBc0dpU0MyX25UWGFPbGQ5R2JoTkE4Q2RYUQ?oc=5",
+    "date": "2026-11-19",
+    "summary": "일하는 모든 사람이 안전하게 퇴근하는 길 [세상읽기] 한겨레",
+    "source": "한겨레",
+    "collected_at": "2026-11-23T13:44:11.337078+09:00"
+  },
+  {
+    "id": "b0b2adf07d7f23d2ac65",
+    "category": "뉴스",
+    "title": "경북동부근로자건강센터 개소… 소규모 사업장 노동자 건강관리 지원 - 안전신문",
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9paXpydE1BVTV6bmxXOUNJOGRQaHBaU1RaWXBPRkVHZmZHVnJRRVBFOEFjdkE3YVJiWGpUdGZHcjA3d1pidFkwWm5zUDVJV05YVWcyQ1RtYVotSi00ZUFSTExPYWN5dTBxSENSeXNkWFE?oc=5",
+    "date": "2026-11-18",
+    "summary": "경북동부근로자건강센터 개소… 소규모 사업장 노동자 건강관리 지원 안전신문",
+    "source": "안전신문",
+    "collected_at": "2026-11-23T13:44:11.337078+09:00"
+  },
+  {
+    "id": "b3fffb9bb3c9971a5c91",
+    "category": "뉴스",
+    "title": "[김양호 칼럼]사업장에서 사라진 예방을 되찾아야 한다 - 경상일보",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5RS1JaS3c3QzdETFQxRFhEamJMVmJ6NDVnR2FvVGIyQUNXX1FHOUlwU0h5U28wZG52amVXQURSdDY0cVJzN2REb3V1ay1jVUlSdVpiSV9HVklFU0MyaGxrZkhFX2ZTRzFORl9qeA?oc=5",
+    "date": "2026-11-18",
+    "summary": "[김양호 칼럼]사업장에서 사라진 예방을 되찾아야 한다 경상일보",
+    "source": "경상일보",
+    "collected_at": "2026-11-23T13:44:11.337078+09:00"
+  },
+  {
+    "id": "73fb0739e52bba7b33d6",
+    "category": "법령·입법예고",
+    "title": "고용부, 산업안전보건법 위반 행위 신고 시 포상금 지급 - 아파트관리신문",
+    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB6VGp0am5WTHhidTZJNFNDV0pvY19wdTA2UUY4bE00N0ZfZGtoZFk5TVFoVzFTcWZaQzFKZGxvWS0zWHR5dDkyY0p1WndXSS1VQUpuNUFnUGp3MFlPZ09nTmJpalM2Y1HSAWtBVV95cUxNNUwwTklYZDB1WkprTGlXX0hjY2VRalhtS0xMbmQxQ1NQczJ5UnJIbVFWMkhINy1nY1ZMX25rX0Jvc2xmZFBMbjB1UEl0ZGVQX2cwNTRRM2tsbFFwaVNSRWdVRnJZd0MtVlk4VQ?oc=5",
+    "date": "2026-11-18",
+    "summary": "고용부, 산업안전보건법 위반 행위 신고 시 포상금 지급 아파트관리신문",
+    "source": "아파트관리신문",
+    "collected_at": "2026-11-23T13:44:11.337078+09:00"
+  },
+  {
+    "id": "b66ec123bcd817088c6c",
+    "category": "법령·입법예고",
+    "title": "[위클리오늘] 평창군, 전 사업장 위험성평가 추진 - 위클리오늘",
+    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1YUzBjUVdRSXZzSEdsQWJxMVo0QTVKZXdLS2dLV0VlWmFueGs3M0FrV01neFVzNU9KMjNZaTAyaW1PeHBrZWVmTlBOYWhYSmFRYjhyVGI1VWc5cUNReXBDQ0tNTTZBblUxWWx1OWFKQQ?oc=5",
+    "date": "2026-11-18",
+    "summary": "[위클리오늘] 평창군, 전 사업장 위험성평가 추진 위클리오늘",
+    "source": "위클리오늘",
+    "collected_at": "2026-11-23T13:44:11.337078+09:00"
+  },
+  {
+    "id": "a1fe7d64c75425fa508b",
+    "category": "화학물질 규제",
+    "title": "\"항공정비유·분진에 노출되는 공군 피부\"…내일기업, 군수사령부에 피부보호크림 1,000점 기탁 - 세이프티퍼스트닷뉴스",
+    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5SOXNQWGNYUUZ4SjB2Yjc2M3lKUE5BMTNHTmRScWJkV2pLNjdpdi1GNW1xSENyMUd5MXFNcHZzb0RwRTJLX0ZMMjA1bXE2ZlNDcHByanRjZjRHU2Q5cTg2UHJ3SXFQSndPRmtpczlKNA?oc=5",
+    "date": "2026-11-18",
+    "summary": "\"항공정비유·분진에 노출되는 공군 피부\"…내일기업, 군수사령부에 피부보호크림 1,000점 기탁 세이프티퍼스트닷뉴스",
+    "source": "세이프티퍼스트닷뉴스",
+    "collected_at": "2026-11-23T13:44:11.337078+09:00"
+  },
+  {
+    "id": "9a504c80832ddce4338d",
+    "category": "화학물질 규제",
+    "title": "금호석유화학그룹, “안전환경은 타협 없는 기본 가치” ∙∙∙ 지속가능경영 토대 다진다 - 일요신문",
+    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9KQTY2YWlVRmdpdFNETFN0RXVVejI0bWkyUjFyTGZ5MDJPY0VFa0N1cDZMa3FPX0lCTWNpVHg1WHNNQnBTbU1PZ2pQbE1ETjBoSUNEblZVZTRfTGVYMGlSWmloRTN1dw?oc=5",
+    "date": "2026-11-18",
+    "summary": "금호석유화학그룹, “안전환경은 타협 없는 기본 가치” ∙∙∙ 지속가능경영 토대 다진다 일요신문",
+    "source": "일요신문",
+    "collected_at": "2026-11-23T13:44:11.337078+09:00"
+  },
+  {
+    "id": "4080996fb903f38a5aac",
+    "category": "화학물질 규제",
+    "title": "추미애, 축산진흥센터·소방학교 찾아 중대산업재해 예방 점검 “중대재해처벌법, 안전을 행정의 주요 업무로 정착…잘 만든 법” - 투데이경제",
+    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE50VHFlYzdUekFFUW00ZTlQdEkzTlhYdXQ2UGR5QlYyZUY5WDBOSTFaOE5XMmR4ZXMyYjZjX2JiTVBwZVUydjBJMkpDNlRacDgtcTBFb05RSHZaWFpvajJkOGxmSWd3VTVGYks0?oc=5",
+    "date": "2026-11-18",
+    "summary": "추미애, 축산진흥센터·소방학교 찾아 중대산업재해 예방 점검 “중대재해처벌법, 안전을 행정의 주요 업무로 정착…잘 만든 법” 투데이경제",
+    "source": "투데이경제",
+    "collected_at": "2026-11-23T13:44:11.337078+09:00"
+  },
+  {
+    "id": "c4f4a12a08360ed984c9",
+    "category": "화학물질 규제",
+    "title": "'HBM 질주' SK하이닉스, 안전 거버넌스 재정비로 내실 다진다 - Daum",
+    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE05SE8wWm9KQWVoRjBPZnBUZVJmMWF2alI1TzJyd0gwNmhIRVBPM3BoWDFtenhIclphZlZ4c0FrakVxeDFIUjJzREd1NA?oc=5",
+    "date": "2026-11-18",
+    "summary": "'HBM 질주' SK하이닉스, 안전 거버넌스 재정비로 내실 다진다 Daum",
+    "source": "Daum",
+    "collected_at": "2026-11-23T13:44:11.337078+09:00"
+  },
+  {
+    "id": "236ae07c17eee24f33e1",
+    "category": "공지·지침",
+    "title": "[기고-이재형]밥 짓는 여자들 - 안전신문",
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFAyOHhTQmZjZHA3cHQ5NWk1alZ5bEN3eXpaMnJ4SUZCbktZSllUVkhnWUE3LWg5RFVpNXpPV3kxV01kd1NQdTRQZjJVaV85YWxvU2FWWTBKN09MWUhIZGZiVzRSZ092ZE90eTZmajFZUi0?oc=5",
+    "date": "2026-11-18",
+    "summary": "[기고-이재형]밥 짓는 여자들 안전신문",
+    "source": "안전신문",
+    "collected_at": "2026-11-23T13:44:11.337078+09:00"
+  },
+  {
+    "id": "dc9ba4eeca4e0909613a",
+    "category": "지원사업",
+    "title": "포항시, 11월 음주폐해 예방의 달 맞아 건강한 직장문화 조성 나서 - OMATE 시니어",
+    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9mYWFYM0xac2VzY091QWVpYUxIVmVvUjF2MWFFamVGaEgwdGJkZmJCNlVJRlNqNFVTbHEtM0tBWE5PZjV6RjZlZV9XQVFEaThNbnVSZmg3OW5QeWx5Wlk2Y2k4UlM?oc=5",
+    "date": "2026-11-18",
+    "summary": "포항시, 11월 음주폐해 예방의 달 맞아 건강한 직장문화 조성 나서 OMATE 시니어",
+    "source": "OMATE 시니어",
+    "collected_at": "2026-11-23T13:44:11.337078+09:00"
+  },
+  {
+    "id": "979ec9a21e1d1a1321be",
+    "category": "지원사업",
+    "title": "“소규모 사업장, 최소한의 안전보건 인력확보와 민간전문기관 협력체계 강화돼야” - 한국노총",
+    "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9faGE1YV84SWZ0OVlYMUd1UDRaN0dxREoyVXdqTUNmZm9HSk0yaXNuSm1uanpuSkE0aW5OelZOSVphY01rNEFZMg?oc=5",
+    "date": "2026-11-18",
+    "summary": "“소규모 사업장, 최소한의 안전보건 인력확보와 민간전문기관 협력체계 강화돼야” 한국노총",
+    "source": "한국노총",
+    "collected_at": "2026-11-23T13:44:11.337078+09:00"
+  },
+  {
+    "id": "a000e66fa49986fdb61c",
+    "category": "지원사업",
+    "title": "경북동부근로자건강센터 개소… 소규모 사업장 노동자 건강관리 지원 - 안전신문",
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9paXpydE1BVTV6bmxXOUNJOGRQaHBaU1RaWXBPRkVHZmZHVnJRRVBFOEFjdkE3YVJiWGpUdGZHcjA3d1pidFkwWm5zUDVJV05YVWcyQ1RtYVotSi00ZUFSTExPYWN5dTBxSENSeXNkWFE?oc=5",
+    "date": "2026-11-18",
+    "summary": "경북동부근로자건강센터 개소… 소규모 사업장 노동자 건강관리 지원 안전신문",
+    "source": "안전신문",
+    "collected_at": "2026-11-23T13:44:11.337078+09:00"
+  },
+  {
+    "id": "32eaf7a7cd9b1455ed2b",
+    "category": "지원사업",
+    "title": "[부산ㆍ경남 대학 브리핑 모음(11월18일)] 국립창원대, 한국·중국·싱가포르 참여 ‘가야국제무용제’ 개최 등 - 대한경제",
+    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE95V1JSSXFhOGpHN1F3aHpQWDJwYjNBRm9DUFBhS0hQeHI2anIzZWQxRVBhSnBabnUteGpxaVd0T3lhUjNob09HM0FrUm5ucGVBbVpZaTJJNjNjcjRGZnRjSFRvUVBCcGk1QjN6UmNLcmRvMVU?oc=5",
+    "date": "2026-11-18",
+    "summary": "[부산ㆍ경남 대학 브리핑 모음(11월18일)] 국립창원대, 한국·중국·싱가포르 참여 ‘가야국제무용제’ 개최 등 대한경제",
+    "source": "대한경제",
+    "collected_at": "2026-11-23T13:44:11.337078+09:00"
+  },
+  {
+    "id": "1d4f55fb73b5a93638bc",
+    "category": "지원사업",
+    "title": "근로복지공단 설립 31년 만에 독립법 추진…김태선 의원, ‘근로복지공단법’ 제정안 발의 - 한국투데이",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBPZ0xGaC1QZlZXakhHZ3htZWVyTXBsNko0R0JURVA5ZVpPNzNRNXlTWHJZMHJscVNKaEJiMDY2WmtjZUQ4UlpZeDI4TXZxeHd3bmVWRVFWZ3hYeVJRQU9xR0c4MVVaWWdnd3c?oc=5",
+    "date": "2026-11-18",
+    "summary": "근로복지공단 설립 31년 만에 독립법 추진…김태선 의원, ‘근로복지공단법’ 제정안 발의 한국투데이",
+    "source": "한국투데이",
+    "collected_at": "2026-11-23T13:44:11.337078+09:00"
+  },
+  {
+    "id": "c5be1acb7bc67496a515",
+    "category": "채용",
+    "title": "보건소장 채용 응시자 미달 사태…자격 문턱 낮췄지만 의사 구인난 넘을까 - 경북동부신문",
+    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE81dnhOeTE1UkJoaVZfaUVfS2xlQ2JOYWl2bnB2RUJ6UG5hcXZ3M18yLXhiZWN3TkhJc2ExT2c3UmlDdncwZkU3R25LS19xTkU?oc=5",
+    "date": "2026-11-18",
+    "summary": "보건소장 채용 응시자 미달 사태…자격 문턱 낮췄지만 의사 구인난 넘을까 경북동부신문",
+    "source": "경북동부신문",
+    "collected_at": "2026-11-23T13:44:11.337078+09:00"
+  },
+  {
+    "id": "14a080f32ef14d4efedf",
+    "category": "정보·자료",
+    "title": "아주대병원 연구팀, 인권·회복 중심 정신건강 교육자료 5종 배포 - 메디포뉴스",
+    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE82Q2x4bFpTWTRBeFo3TEdLTWl6N2hncmJwMUwyblZ0STh3MEk1NTVpMnFkOGJsTU1YRGdqalN4dzVfaVVwTmY0RUR2WEZxMmVEZ3M3cVk1bG9SSTBsNTJaTVlKaWM?oc=5",
+    "date": "2026-11-18",
+    "summary": "아주대병원 연구팀, 인권·회복 중심 정신건강 교육자료 5종 배포 메디포뉴스",
+    "source": "메디포뉴스",
+    "collected_at": "2026-11-23T13:44:11.337078+09:00"
+  },
+  {
+    "id": "2a0328e375085b7f53e6",
+    "category": "뉴스",
+    "title": "경북동부근로자건강센터 개소…50인 미만 사업장 노동자 건강관리 지원 - 라포르시안",
+    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9ESDJXOFpIOERlN1JkTWdOUEw1dDZadEwwaVVZSnM4TVJRSTMzeTkzbzJkVVFNdUlMZ050SHhMNjVxVjVPbE51SlNGaFFiaXZFdmRub09VX0lVN3U3QzNwRmpBdVMwZWFRSzRQcXV3?oc=5",
+    "date": "2026-11-17",
+    "summary": "경북동부근로자건강센터 개소…50인 미만 사업장 노동자 건강관리 지원 라포르시안",
+    "source": "라포르시안",
+    "collected_at": "2026-11-23T13:44:11.337078+09:00"
+  },
+  {
+    "id": "48c41f7c96c8521fd831",
+    "category": "뉴스",
+    "title": "직업건강협회, 경북동부근로자건강센터 개소…50인 미만 사업장 무료 건강관리 - 비욘드포스트",
+    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBlTVZlR3RmMnVfdmtLY0pZVXdrdWd6THhKeFpkdkhtcVNIMnZpcVp3T0NLNXRYRnowbFB1aU1wTW01YzdLREpweWdVSXUzSlJhV3l1dTFXcEo0NzBBcGgzZF9tUk5VaUlWY1VSb09LTkNld0lJYVdtMjliQlU?oc=5",
+    "date": "2026-11-17",
+    "summary": "직업건강협회, 경북동부근로자건강센터 개소…50인 미만 사업장 무료 건강관리 비욘드포스트",
+    "source": "비욘드포스트",
+    "collected_at": "2026-11-23T13:44:11.337078+09:00"
+  },
+  {
+    "id": "b8122dbed4a26f8080de",
+    "category": "뉴스",
+    "title": "'산재상담부터 손해사정까지'… 민관 합동 배달노동자 안전보건 원스톱 지원 - 안전신문",
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1SdEdDRUNLWVFFZmg0aWhkbkJBUGhuWEprX0RJekVEbWh0UnZQcGNYZXNjRWNxUDh4WThRMG9oWXhua1hpRk1CeWZhZkJTZnNrWUMyQWtLV3cxTk5zRXNZbUR4WDI4YWdkakp6bmlINWU?oc=5",
+    "date": "2026-11-17",
+    "summary": "'산재상담부터 손해사정까지'… 민관 합동 배달노동자 안전보건 원스톱 지원 안전신문",
+    "source": "안전신문",
+    "collected_at": "2026-11-23T13:44:11.337078+09:00"
+  },
+  {
+    "id": "90fc23637d2f9c13e60e",
+    "category": "법령·입법예고",
+    "title": "위험성평가 ‘과태료’ 내년 1월 시행…“개선 이행 기록까지 남겨야” - 월간노동법률",
+    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQOEFPY0pkTUllaHlwOVZTODRFQ0JTd1dGenFIQkE0dWlydk1ZSXBnVGNxVzZGM1VYbjdjQXVrZEUxZmZWb01JV1VobmdGVGtxdVozejNUemY5NnRYQ0U1dXA5ckxBaVp5aVpseUNzU3dSTmlXNGkzaVNkdFZha0hVUHpVMGlxM0YyX09FZkpR?oc=5",
+    "date": "2026-11-17",
+    "summary": "위험성평가 ‘과태료’ 내년 1월 시행…“개선 이행 기록까지 남겨야” 월간노동법률",
+    "source": "월간노동법률",
+    "collected_at": "2026-11-23T13:44:11.337078+09:00"
+  },
+  {
+    "id": "333f1c6f62c0ffe18e65",
+    "category": "화학물질 규제",
+    "title": "화학안전주간 정책포럼 '사고 예방·안전관리 방안' 논의 - 세이프타임즈",
+    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBSN09yS3ZEbTlnRFlTVTdXUDkzd09RVXdJaVRjU01ySlNDN1F2Y09lLUpDMmVBNFg1dWVSM0Y2dHFkWS14SERsRmNnWjd1eG5UazVhQWVmN1ZfaFJQaDBBUDhGV2c4WjhtVkRVYnNna9IBc0FVX3lxTFB2UjZZQmtJeVg3dllTRjl6bmlRR1E3VDdJeGg3MVF5cVUtTk9EXzlUUE5kRWpyVENjTmZEc1lWcUd1ME1ZVnBVY2lraEpwZGxOYk5zaHpJbTBMVkw4c1FZZU1XY1AxbWVwRkEyRF9wNDUta1E?oc=5",
+    "date": "2026-11-17",
+    "summary": "화학안전주간 정책포럼 '사고 예방·안전관리 방안' 논의 세이프타임즈",
+    "source": "세이프타임즈",
+    "collected_at": "2026-11-23T13:44:11.337078+09:00"
+  },
+  {
+    "id": "f00a4417af560168c0b8",
+    "category": "화학물질 규제",
+    "title": "질병사망 절반이 50명 미만서, 더딘 직업병 예방 제도 개선 - 매일노동뉴스",
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5IQjJ0ODVhekdHclpwVGxKdGl3YnpCbXRydFN6cThKRWYwMnVtX3NheU5neXg4VktFUDE3RlZPM05Ra2NGdzE4cDRsS1k5SzI2UElvODdWR0c5THR4dEhWbmlFUWVBeFEza29TSU1NU18?oc=5",
+    "date": "2026-11-17",
+    "summary": "질병사망 절반이 50명 미만서, 더딘 직업병 예방 제도 개선 매일노동뉴스",
+    "source": "매일노동뉴스",
+    "collected_at": "2026-11-23T13:44:11.337078+09:00"
+  },
+  {
+    "id": "38674823efe94f6dfbc2",
+    "category": "화학물질 규제",
+    "title": "‘청년 일경험, 취업 발판으로’...환경보전원, 산업현장 이끌 화학안전 전문인력 키운다 - 에코타임스",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1YTkExQ054UDFUemJOcU44dV9TSTJaZ1dObEVPdy1YUzkwZkVPZkZUTEJVN2JpQWVFYkFncm9zMmYxa1d0UFo1bmluTEVSMTFLTXRXWGhUZmlkb0Jkb3hWc1lNSk41RUJVRlcxedIBb0FVX3lxTFBZbFAyNGZReFV6NjAyUkxMbjFMblJVT1hJaTJRM1pZOFc1dC0xRkpYdUVUMWtBZmd2aEdOaGp1SUstOWtVN1ZVWG1KQkdLdzlkWk9jNGY1R0VyN3VoenJkUEpGYVFtR3FxbzZ0UW8xQQ?oc=5",
+    "date": "2026-11-17",
+    "summary": "‘청년 일경험, 취업 발판으로’...환경보전원, 산업현장 이끌 화학안전 전문인력 키운다 에코타임스",
+    "source": "에코타임스",
+    "collected_at": "2026-11-23T13:44:11.337078+09:00"
+  },
+  {
+    "id": "bd19ce21a6b19a74fdae",
+    "category": "화학물질 규제",
+    "title": "포항해수청, 20일까지 항만안전캠페인…하역현장·유해화학물질 시설 합동점검 - 신아일보",
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBQZmFFVmN6ZDhPODVaNjVpRVVqTGVteHZKMGxHalF1SDlvcmg4dFFsa3BuNHg1cG1NcWxrOGdhenJiNWtLMGdtUW5xVEk5dExUbDdnZ3ZWMENHaEswR0hZX1RjSGlUMExmUzNwUG8zVHo?oc=5",
+    "date": "2026-11-17",
+    "summary": "포항해수청, 20일까지 항만안전캠페인…하역현장·유해화학물질 시설 합동점검 신아일보",
+    "source": "신아일보",
+    "collected_at": "2026-11-23T13:44:11.337078+09:00"
+  },
+  {
+    "id": "695a9d27905ec58fb798",
+    "category": "화학물질 규제",
+    "title": "환경공단, 수질원격감시 측정소 안전 가이드북 발간 - 환경일보",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9yVk9iVU4xTXJLU0FmV3E1TEpfU1l2MUhiYmhjWVlDcUR1REFkNVZ5QXlGQmNHYUZFRUM4YWpNV0U5TVVOTlotc2hZVVpZSi1GNGJOWmJQVk1HNjBUaDJxWVZqclU4SGlN?oc=5",
+    "date": "2026-11-17",
+    "summary": "환경공단, 수질원격감시 측정소 안전 가이드북 발간 환경일보",
+    "source": "환경일보",
+    "collected_at": "2026-11-23T13:44:11.337078+09:00"
+  },
+  {
+    "id": "4f9c93bd7fce06cc7d81",
+    "category": "화학물질 규제",
+    "title": "금호석유화학, '안전·환경 내재화'로 지속가능 토대 다진다 - 아시아경제",
+    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE8xZ0hsMEtidE5XSlpDWDByb0JOZElqWE9nRldyRzhnVW52SjZiM2ROZHpHeHBoVGs4TWJ2WWF5NktUVWxSTkNFRFY3NFo2OW9oWFhBT2hnREhRWnBuYWNoQg?oc=5",
+    "date": "2026-11-17",
+    "summary": "금호석유화학, '안전·환경 내재화'로 지속가능 토대 다진다 아시아경제",
+    "source": "아시아경제",
+    "collected_at": "2026-11-23T13:44:11.337078+09:00"
+  },
+  {
+    "id": "61d9bedd44bdc7a7adce",
+    "category": "화학물질 규제",
+    "title": "창원특례시, 현업근로자 건강장해 예방 보건교육 실시 - 경남뉴스투데이",
+    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1vTjRNRnk5OUxEb3JKMDVMM0pXMFVzd0JvN3FlMDhFRmluVnFJcmxWclZ5S3VTOWstNjU3ejJFWlNWcnprWlBfdllPRXJOZk9Iakc2eVJKRHNSVFJCNUdQY2hOS1lDSGFjNHNBdzVOQkFzdw?oc=5",
+    "date": "2026-11-17",
+    "summary": "창원특례시, 현업근로자 건강장해 예방 보건교육 실시 경남뉴스투데이",
+    "source": "경남뉴스투데이",
+    "collected_at": "2026-11-23T13:44:11.337078+09:00"
+  },
+  {
+    "id": "0665d8c77e183b029316",
+    "category": "화학물질 규제",
+    "title": "화학안전 인재, 교육 넘어 취업으로…162명 산업현장 실무역량 키웠다 - 에너지데일리",
+    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5GRDd3MWEwN3o2UGVzN2tlc0lDcVdxOFdfcGJDcUVBWEhpZldtbVZVM1Q2Z0gxam90MUgxNm1nM3UweTZtVU5fOGJORW9MemtkZWZnVXpyM05HT1NlV2lEekppNHpFVFVoTkVFallQbkFFQQ?oc=5",
+    "date": "2026-11-17",
+    "summary": "화학안전 인재, 교육 넘어 취업으로…162명 산업현장 실무역량 키웠다 에너지데일리",
+    "source": "에너지데일리",
+    "collected_at": "2026-11-23T13:44:11.337078+09:00"
+  },
+  {
+    "id": "98d690760b22d757667e",
+    "category": "공지·지침",
+    "title": "지붕 물받이 작업 추락사…법원, 처벌 뒤에도 바뀌지 않은 안전관리 지적 - 세이프티퍼스트닷뉴스",
+    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE8yZm1ORF9mMEdEOGk2TVQ2cFdKcF9QTG5QSTJ6NlF1NjJOTzN0NVhkZWltUzMzTF9ZcUdBNHhFeE5ubUItY3VlZDc5RVloRHFqMlY0ajZySS00Qm96M3BqT3hPOGhkOVBiMVpwRkRENA?oc=5",
+    "date": "2026-11-17",
+    "summary": "지붕 물받이 작업 추락사…법원, 처벌 뒤에도 바뀌지 않은 안전관리 지적 세이프티퍼스트닷뉴스",
+    "source": "세이프티퍼스트닷뉴스",
+    "collected_at": "2026-11-23T13:44:11.337078+09:00"
+  },
+  {
+    "id": "29d394d63a1921f501ad",
+    "category": "공지·지침",
+    "title": "평창군시설관리공단, 안전·고객서비스 경영체계 강화 - 강원신문",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE92cmVOdXFyTUlFdGw5VDZQdGpISHROYTRuV3ZiV3ZPd1JZTjRCXzB5YWxxMHBwWDY3WTFFR2VoWEQyX3dpZENycG42am1xRnp6Z3FpYV8tblJzb0hWSVRjYkpLdTE3a1FT?oc=5",
+    "date": "2026-11-17",
+    "summary": "평창군시설관리공단, 안전·고객서비스 경영체계 강화 강원신문",
+    "source": "강원신문",
+    "collected_at": "2026-11-23T13:44:11.337078+09:00"
+  },
+  {
+    "id": "0a1d87068e610f6284cd",
+    "category": "지원사업",
+    "title": "직업건강협회, 경북동부근로자건강센터 개소…50인 미만 사업장 무료 건강관리 - 비욘드포스트",
+    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBlTVZlR3RmMnVfdmtLY0pZVXdrdWd6THhKeFpkdkhtcVNIMnZpcVp3T0NLNXRYRnowbFB1aU1wTW01YzdLREpweWdVSXUzSlJhV3l1dTFXcEo0NzBBcGgzZF9tUk5VaUlWY1VSb09LTkNld0lJYVdtMjliQlU?oc=5",
+    "date": "2026-11-17",
+    "summary": "직업건강협회, 경북동부근로자건강센터 개소…50인 미만 사업장 무료 건강관리 비욘드포스트",
+    "source": "비욘드포스트",
+    "collected_at": "2026-11-23T13:44:11.337078+09:00"
+  },
+  {
+    "id": "b20e035f260112b476ed",
+    "category": "지원사업",
+    "title": "이윤승 의원, 학교 공사 안전관리부터 고교 학급 수 조정까지…교육행정 개선 촉구 등 - 사회적경제뉴스",
+    "url": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE1nYmZUaG9CYmxXOV9LNFhnT2l0RURPd1dicTc5UVE0TENNazItNkNONUdLMHNsUjJBMk96QldOYw?oc=5",
+    "date": "2026-11-17",
+    "summary": "이윤승 의원, 학교 공사 안전관리부터 고교 학급 수 조정까지…교육행정 개선 촉구 등 사회적경제뉴스",
+    "source": "사회적경제뉴스",
+    "collected_at": "2026-11-23T13:44:11.337078+09:00"
+  },
+  {
+    "id": "b5e0041668061c94f0b4",
+    "category": "지원사업",
+    "title": "인제대 산업보건센터 작업환경측정기관 평가 5회 연속 최상위 S등급 - 베리타스알파",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE11eWZobFMyX29rUzFHZFVVWVpvQVNGWEVrVTdTa0E3dC1nX0V5OFJVLWtfYmxWc0lNTzB3SEx4UkJaX2NXZWJLRVdvODB0YkNpVmMtNlQ1T0dNN2ltaXRlcW5BMWE3RC1KczhuYw?oc=5",
+    "date": "2026-11-17",
+    "summary": "인제대 산업보건센터 작업환경측정기관 평가 5회 연속 최상위 S등급 베리타스알파",
+    "source": "베리타스알파",
+    "collected_at": "2026-11-23T13:44:11.337078+09:00"
+  },
+  {
+    "id": "a59db34c9665d68190bf",
+    "category": "지원사업",
+    "title": "산업안전보건연구원, 한국경영컨설팅학회 ‘연구혁신 대상’ - 에너지경제신문",
+    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBGOXExdTJOamNqd1BIa2hkanJHM0c2WllvQVlwUnRVaEY1OWZkYkNiOFZ4YjYyWEtzbnNOUVZJenRQRGt4Y0J3azFBbHg3VDRCV200blhNa1liYXM?oc=5",
+    "date": "2026-11-17",
+    "summary": "산업안전보건연구원, 한국경영컨설팅학회 ‘연구혁신 대상’ 에너지경제신문",
+    "source": "에너지경제신문",
+    "collected_at": "2026-11-23T13:44:11.337078+09:00"
+  },
+  {
+    "id": "566fdb89df8777a2932e",
+    "category": "채용",
+    "title": "질병사망 절반이 50명 미만서, 더딘 직업병 예방 제도 개선 - 매일노동뉴스",
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5IQjJ0ODVhekdHclpwVGxKdGl3YnpCbXRydFN6cThKRWYwMnVtX3NheU5neXg4VktFUDE3RlZPM05Ra2NGdzE4cDRsS1k5SzI2UElvODdWR0c5THR4dEhWbmlFUWVBeFEza29TSU1NU18?oc=5",
+    "date": "2026-11-17",
+    "summary": "질병사망 절반이 50명 미만서, 더딘 직업병 예방 제도 개선 매일노동뉴스",
+    "source": "매일노동뉴스",
+    "collected_at": "2026-11-23T13:44:11.337078+09:00"
+  },
+  {
+    "id": "ed9ea8bf5b3e9c624e4b",
+    "category": "채용",
+    "title": "서울특별시의회 김경우 보건복지위원장, 서울의료원 채용·회계 관리 부실 질타 - https://www.climatepol.com/",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9fVEk3cXFDbEhuNGdKdjVmM3plOVItVGNjVmJtNGVkRGZ1NVRwY1Y4TU81QjU0UkxMdV9VWFNFYTVpVi1hQXdYT2RzMEI5UENjZllPUmIzMXRjUlJ4OE1oZW1FSnVFUjZHbmtpQQ?oc=5",
+    "date": "2026-11-17",
+    "summary": "서울특별시의회 김경우 보건복지위원장, 서울의료원 채용·회계 관리 부실 질타 https://www.climatepol.com/",
+    "source": "https://www.climatepol.com/",
+    "collected_at": "2026-11-23T13:44:11.337078+09:00"
+  },
+  {
+    "id": "dd4a3940d75264aecfb8",
+    "category": "채용",
+    "title": "김경우 보건복지위원장 “서울의료원 채용·회계 부실…관리 책임 규명해야” - 서울뉴스통신",
+    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9TNWNJYkVHVmMtcERXVWFwX1pQbXNTTXVhVHNXVXgwdzBMQTZpU3lMSEFVVTNXMC10amxQLURFUlI5Qy03ZnlMMFhOd1ZQcTZ6Mmp4aTdJZV9ZQ3Nmb210RTZVQVFXUmZWYVVn?oc=5",
+    "date": "2026-11-17",
+    "summary": "김경우 보건복지위원장 “서울의료원 채용·회계 부실…관리 책임 규명해야” 서울뉴스통신",
+    "source": "서울뉴스통신",
+    "collected_at": "2026-11-23T13:44:11.337078+09:00"
+  },
+  {
+    "id": "ce030d1370c7dde07e74",
+    "category": "채용",
+    "title": "김경우 서울시의회 보건복지위원장, 서울의료원 채용·회계 관리 부실 질타 - 서울Pn",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9INGdpaGlwLXpOTlNCVUN0U1EyNkN3bjI2N0N2ZlI2a09fMDczVkNMZ1dyMzVXWktGUk9YaHA0VW42cktUcEx3WjV6WVhIWUF6TUNLbUJkcEwwQlBpcjZEQThNVkJoWmF1bEE?oc=5",
+    "date": "2026-11-17",
+    "summary": "김경우 서울시의회 보건복지위원장, 서울의료원 채용·회계 관리 부실 질타 서울Pn",
+    "source": "서울Pn",
+    "collected_at": "2026-11-23T13:44:11.337078+09:00"
+  },
+  {
+    "id": "39811bc3c8a625fb34c1",
+    "category": "채용",
+    "title": "김경우 서울시의회 보건복지위원장, 서울의료원 채용·회계 관리 부실 지적 - SR타임스",
+    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFAwRGFTNHAzVVZqZTFNYzU0aTFhTHlYMl83T1J6S0lCSTZrX2NlcmtqRFI1RTEtSlNRMWV4QllSeG1sOF9OM3BIMV96WmVZUHdmNXp2a21reTU2WVRTSWo1bjZYWUxiQknSAWtBVV95cUxOM0hkaVBEeFhPSDVlRnZXd0k5bUMtNjdkNnNfZlVieHMwamxxOXpSQVUtS1ZUQ3BhelFMcjY3RUF2SkpvMHFyZkJqZl9zeVdFemplbGs3V2VBaEp4QUlVaVJTRmZYeVBGZUk1TQ?oc=5",
+    "date": "2026-11-17",
+    "summary": "김경우 서울시의회 보건복지위원장, 서울의료원 채용·회계 관리 부실 지적 SR타임스",
+    "source": "SR타임스",
+    "collected_at": "2026-11-23T13:44:11.337078+09:00"
+  },
+  {
+    "id": "6f3a958cdf7fd4979556",
+    "category": "화학물질 규제",
+    "title": "환경공단, 수질감시 측정소 안전관리 강화…가이드북 발간 - 전기신문",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBKT3dTMzRzMlFCekdPczBWalVHQjNfbWREMGlvd18yakdwaVpjdjdzR1NSTXJhMldZaVBLNXlBQjlfTmhFOTlId1U4eTNBSHJBaWRsU2FESUlXTWZISHFtaEcyN0FMdXFCT19iMNIBcEFVX3lxTE9FRC1fbHVmbGxxUDV0dEV5UzBSUThPUlVQWHJ6R3Y1NGJDajdXUHExcndISlRXbUVRWTFSRTVWRHRaeTZvUkRqZUROcEFxYUNZUDVXRU9sdk5jOWZXWGZzTGtJMGhoS0haRi01M1czYkU?oc=5",
+    "date": "2026-11-16",
+    "summary": "환경공단, 수질감시 측정소 안전관리 강화…가이드북 발간 전기신문",
+    "source": "전기신문",
+    "collected_at": "2026-11-23T13:44:11.337078+09:00"
+  },
+  {
+    "id": "12b6dc15d87fa99c5888",
+    "category": "화학물질 규제",
+    "title": "환경공단, 수질TMS 1201곳 안전관리 강화…현장 안전수칙 가이드 배포 - 에너지데일리",
+    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE4yemI3a3YtSlFLd3Q1SlJUM0gxbEZoZThPZFBaR2tId2JUZmhha09hVXNQNGVZckdNMWszRUp1WVcxWjNGSWptckFNMXZtZzROSVcwQVBnTEppQ0JUcy1SZW1aRWYwcHp6b0tFOXROQTg3UQ?oc=5",
+    "date": "2026-11-16",
+    "summary": "환경공단, 수질TMS 1201곳 안전관리 강화…현장 안전수칙 가이드 배포 에너지데일리",
+    "source": "에너지데일리",
+    "collected_at": "2026-11-23T13:44:11.337078+09:00"
+  },
+  {
+    "id": "ab5e8beb422e722a0e43",
+    "category": "화학물질 규제",
+    "title": "한강유역환경청, 수도권 공단 유해화학물질 관리 '구멍'… 10곳 중 1곳꼴 법 위반 - 데일리환경",
+    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE44b0lueWJqeElMVzhfc3h6T2VXbC1xX0ZidW14TjNzaFQzV2VoZFZ6U0ZuZ0FDaEZHZGVFaUFnVERhRDkwVGhTeGxtY1I2STV0b1BlWC1kZXRnVFlacEE?oc=5",
+    "date": "2026-11-16",
+    "summary": "한강유역환경청, 수도권 공단 유해화학물질 관리 '구멍'… 10곳 중 1곳꼴 법 위반 데일리환경",
+    "source": "데일리환경",
+    "collected_at": "2026-11-23T13:44:11.337078+09:00"
+  },
+  {
+    "id": "a04704768ffecb484464",
+    "category": "화학물질 규제",
+    "title": "한국환경공단, 수질원격감시 측정소 안전 가이드북 발간 - 디지털비즈온",
+    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9GTk5ycDRXVmdaZmJIWXFWb3R5S1ZjM1pGUWc4TFl4OEZjX0Q2TjcyV2MzOVlXZElUSVdVU01PeGxuaGlFN05uQ2NxemNjTjFIUnZLSkR6OWhJcU9ZMU1mc3lPTEtQUWVyRU9xREZ5cDFnUdIBdEFVX3lxTFBYdVoyVk04STl0WE4wQ2dDV20wQ20temoxRFR3MU40VG12bEJHWWVZMW5BMWRJYVVRcnNBSG1QQUNhaG1MYmtBMUJZdHVwMGE0bllYWEZnRGJjbDZSLTBWUVVjZ3p6WFFiTTlnWW1MY0tlNjFU?oc=5",
+    "date": "2026-11-16",
+    "summary": "한국환경공단, 수질원격감시 측정소 안전 가이드북 발간 디지털비즈온",
+    "source": "디지털비즈온",
+    "collected_at": "2026-11-23T13:44:11.337078+09:00"
+  },
+  {
+    "id": "964d2d83d1e3cbc24dc8",
+    "category": "화학물질 규제",
+    "title": "환경공단 ‘수질TMS 측정소 안전관리 가이드’ 배포 - 데일리안",
+    "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxNb3BjVjF3LW1lczROMFZOb1FMWUpWeUpZbHhhbjhMWll2TVg4ZEFLTThaRmV3WDVaOGlZb1lXREFuMXc2MEtlQThfOFZuWXg4YnhJekgwT2VWcDlTUEZRXzNzNTAxLVVwWjFEakZDNnkwcmp3VXZEaU1mM1VnT1pfZlVXYnN0UHhqajU2bDlZMGJvYTJCc2tJNjFlN1lhcjJTeVVpUkptRy1kdFFodVM2eEw3LXhuQXB5X1NORHB2TjJhei03UUJpQmh1dDFfNWlwdEhOSHZKTjJ5S045R19hN3ROQUpOX21VUTJWX3dhVEtFR3FjaExmQVg0RkJmYUhNT1VwakhZRklQT05vNGc?oc=5",
+    "date": "2026-11-16",
+    "summary": "환경공단 ‘수질TMS 측정소 안전관리 가이드’ 배포 데일리안",
+    "source": "데일리안",
+    "collected_at": "2026-11-23T13:44:11.337078+09:00"
+  },
+  {
+    "id": "bdd50847f953b0acc9a8",
+    "category": "화학물질 규제",
+    "title": "EU-OSHA 보고서, 업종별 심혈관 위험평가 제안…건설·야간교대 우선 - 세이프티퍼스트닷뉴스",
+    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5UWWdoaGxNdEp6VjV5NG5zcmVBVHFKam5HREFBWnhDNEV5d1FzRHJVUGZOdGpZZ3NSTWtFTS13OERJY3Y0OWFzR2pnX2M2QVQ0TkF5dk5neENFODhOakpPcXVFaGR0V2pMUy1keGNnOA?oc=5",
+    "date": "2026-11-16",
+    "summary": "EU-OSHA 보고서, 업종별 심혈관 위험평가 제안…건설·야간교대 우선 세이프티퍼스트닷뉴스",
+    "source": "세이프티퍼스트닷뉴스",
+    "collected_at": "2026-11-23T13:44:11.337078+09:00"
+  },
+  {
+    "id": "d5ca65fc3e07b8cc7ada",
+    "category": "화학물질 규제",
+    "title": "한국가스학회, 2026년 추계학술대회 개최…가스·수소산업 기술혁신과 안전성 확보 방안 모색 - 안전정보",
+    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5LcEdYbjl5QUN1ZHowcGQtZS1YMzVMQTRkNUNoMWhUVEZHY3pGNjM0c0FCQTI3WEtSRVNySFY3ZnNEMHRVWU5hODR6ZWJYazltc19kdUlDTkNxUlh3NU9kQlFhTWwtVlNUMDE4?oc=5",
+    "date": "2026-11-16",
+    "summary": "한국가스학회, 2026년 추계학술대회 개최…가스·수소산업 기술혁신과 안전성 확보 방안 모색 안전정보",
+    "source": "안전정보",
+    "collected_at": "2026-11-23T13:44:11.337078+09:00"
+  },
+  {
+    "id": "dd741add50da1800fcfd",
+    "category": "공지·지침",
+    "title": "평창군시설관리공단, 중대재해 예방·고객 권익 보호 강화…안전·서비스 혁신 추진 - 쿠키뉴스",
+    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFB4WGN1ZkM4aVo5MWVfal9jZjdEcGFnSlJDQjY0SFhKMEFueHE5SWpqVHpDRF9pelJ1aFluRFFtSUxFbzN4aTZxcC1TUDFlbEl6cHlkNlVqZl9wempBTzNSWTUzSQ?oc=5",
+    "date": "2026-11-16",
+    "summary": "평창군시설관리공단, 중대재해 예방·고객 권익 보호 강화…안전·서비스 혁신 추진 쿠키뉴스",
+    "source": "쿠키뉴스",
+    "collected_at": "2026-11-23T13:44:11.337078+09:00"
+  },
+  {
+    "id": "edaba617ce47baf6d3b3",
+    "category": "공지·지침",
+    "title": "평창군시설공단, 고객 권익·근로자 안전 두 축 정비 - 뉴시스",
+    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE10am1LaTIyTmlCTmJESFBVa19BcDdrek02Z2Q4d044c256Q3lENGg3MGc1MjZWNGR5V0FaQ0lHaXpPRUJtMG11LU10cTZxTVJxNzh3Q2FNTjcyQTlVRV92etIBeEFVX3lxTE9qekVLTmlZN1BidU1nc2hOcjVuYXBXVDNNODNveV9Xd2s0WlBfNExHWjhtR2tob0FDcGI4TTZHZUh3Zk5CY0pXVVJWTjhxYlE4SlUzLWN5S2ktR2NzZ0lhT1hzZzJqWEFHQVdmSl9JYWs4S252cUpTcw?oc=5",
+    "date": "2026-11-16",
+    "summary": "평창군시설공단, 고객 권익·근로자 안전 두 축 정비 뉴시스",
+    "source": "뉴시스",
+    "collected_at": "2026-11-23T13:44:11.337078+09:00"
+  },
+  {
+    "id": "afd3e210e1a666fbbdaf",
+    "category": "공지·지침",
+    "title": "평창군시설관리공단, 안전보건 경영방침 개정·선포…중대재해 예방 다져 - 국제뉴스",
+    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9tZWpxQkpPTjNQT0hteHd4U29UUFBpUkNJT2hkdi04NmoxNjM0NWw2UW5KaVp4Rm9iUFVPYi0yZDRpY2owM2FIbVFtWTg0ellINFhCWGozdUV3RXhaWXhGeUotdi1ZRUNQMl9DbzZn?oc=5",
+    "date": "2026-11-16",
+    "summary": "평창군시설관리공단, 안전보건 경영방침 개정·선포…중대재해 예방 다져 국제뉴스",
+    "source": "국제뉴스",
+    "collected_at": "2026-11-23T13:44:11.337078+09:00"
+  },
+  {
+    "id": "8499003b2fbc72f4827b",
+    "category": "공지·지침",
+    "title": "평창군시설관리공단, 안전보건 경영방침 개정·선포 - 웹이코노미",
+    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1kNEpqWjJDUU9qbTNITnlpZUt4a282Rk0wUnVRU2xtOWpzaTlqUzUtakdtRE5JbUN2Q3Vybzg1VHpWTzY2eW5HbzRDRU9KeW5lbUtpc2JUSk5XbHIyc0kyUGZJVVNWRnpkdnZNU2tXUWZUdw?oc=5",
+    "date": "2026-11-16",
+    "summary": "평창군시설관리공단, 안전보건 경영방침 개정·선포 웹이코노미",
+    "source": "웹이코노미",
+    "collected_at": "2026-11-23T13:44:11.337078+09:00"
+  },
+  {
+    "id": "0fb919e8f7b54a28ec4d",
+    "category": "지원사업",
+    "title": "EU-OSHA 보고서, 업종별 심혈관 위험평가 제안…건설·야간교대 우선 - 세이프티퍼스트닷뉴스",
+    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5UWWdoaGxNdEp6VjV5NG5zcmVBVHFKam5HREFBWnhDNEV5d1FzRHJVUGZOdGpZZ3NSTWtFTS13OERJY3Y0OWFzR2pnX2M2QVQ0TkF5dk5neENFODhOakpPcXVFaGR0V2pMUy1keGNnOA?oc=5",
+    "date": "2026-11-16",
+    "summary": "EU-OSHA 보고서, 업종별 심혈관 위험평가 제안…건설·야간교대 우선 세이프티퍼스트닷뉴스",
+    "source": "세이프티퍼스트닷뉴스",
+    "collected_at": "2026-11-23T13:44:11.337078+09:00"
+  }
+]
