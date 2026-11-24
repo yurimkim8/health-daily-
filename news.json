@@ -1,5 +1,104 @@
 [
   {
+    "id": "20e67dd1dfb2b730637a",
+    "category": "뉴스",
+    "title": "안전보건공단, 김포근로자건강센터 신설…50인 미만·특고 무료 건강관리 - 비욘드포스트",
+    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9XTi1Bcm9BNjZQWTRBSkJ2clEwZjZpR2tpZ29kQ082TU9saTduc2hnaklHZTV2MW9uaWR4Sjh1cEo3VHdORFBXd3lmZVo4dkVETlVqM2g1S20zWkJwbVdyUTdzbjk4QlkzeEViM2dIdEpmZ01vcWtDVEthcEE?oc=5",
+    "date": "2026-11-24",
+    "summary": "안전보건공단, 김포근로자건강센터 신설…50인 미만·특고 무료 건강관리 비욘드포스트",
+    "source": "비욘드포스트",
+    "collected_at": "2026-11-25T08:38:50.203542+09:00",
+    "priority": "일반"
+  },
+  {
+    "id": "7e4725c57161f915f0f4",
+    "category": "화학물질 규제",
+    "title": "‘산업보건제도 합리적 개선’ 모색 자리 마련돼 - 안전신문",
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5yU3BMLVhva2tFUGZlYXFlcXBGdnNqZFJrRWExRTRmMXhMeGJuV0ZRZjhmbmkxWmR6TUdJV2xmNm4zckp0cEFwRnhYWlN1S1AxblBUdnR0QzJveUxfaEhvZmc1NlNpREdqVG4yWUpSb28?oc=5",
+    "date": "2026-11-24",
+    "summary": "‘산업보건제도 합리적 개선’ 모색 자리 마련돼 안전신문",
+    "source": "안전신문",
+    "collected_at": "2026-11-25T08:38:50.203542+09:00",
+    "priority": "일반"
+  },
+  {
+    "id": "10a217570854ab8e189b",
+    "category": "공지·지침",
+    "title": "‘산업보건제도 합리적 개선’ 모색 자리 마련돼 - 안전신문",
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5yU3BMLVhva2tFUGZlYXFlcXBGdnNqZFJrRWExRTRmMXhMeGJuV0ZRZjhmbmkxWmR6TUdJV2xmNm4zckp0cEFwRnhYWlN1S1AxblBUdnR0QzJveUxfaEhvZmc1NlNpREdqVG4yWUpSb28?oc=5",
+    "date": "2026-11-24",
+    "summary": "‘산업보건제도 합리적 개선’ 모색 자리 마련돼 안전신문",
+    "source": "안전신문",
+    "collected_at": "2026-11-25T08:38:50.203542+09:00",
+    "priority": "참고"
+  },
+  {
+    "id": "37befe0158465bb4e7fe",
+    "category": "재해·직업병 사례",
+    "title": "직업병 예방·심리상담도…안전보건공단, 김포근로자건강센터 개소 - 에너지경제신문",
+    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE50dGJxRlJwMHM1Qk91bnA5ZXFseXRWYThlcHBrSWxaZ2hCNEcySTVqU2ZBYVFjdDgwTVZ6WE5kUkdlOGZoTTNvWC0xZEJoeXhWbFNRdVJtNmEtdmM?oc=5",
+    "date": "2026-11-24",
+    "summary": "직업병 예방·심리상담도…안전보건공단, 김포근로자건강센터 개소 에너지경제신문",
+    "source": "에너지경제신문",
+    "collected_at": "2026-11-25T08:38:50.203542+09:00",
+    "priority": "일반"
+  },
+  {
+    "id": "e9f2ab5a255d5a3042b5",
+    "category": "지원사업",
+    "title": "‘직업병 예방’ 김포근로자건강센터 문 활짝 - 안전신문",
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBzXzdaUGhad1g3VUFfM21JZGx4bF9OSWdMZlk5UFpOM2lFdGlsUVpUN3hWajBBNlFxU2tlQjlxNHVmTlhLS3YwZk53Tl9QOUtmYjJMSmRHeW03cGZEODc2Ymp2cWpwc3FmZklvTVhKQ08?oc=5",
+    "date": "2026-11-24",
+    "summary": "‘직업병 예방’ 김포근로자건강센터 문 활짝 안전신문",
+    "source": "안전신문",
+    "collected_at": "2026-11-25T08:38:50.203542+09:00",
+    "priority": "참고"
+  },
+  {
+    "id": "ca58b3c4802ee8248e30",
+    "category": "지원사업",
+    "title": "‘산업보건제도 합리적 개선’ 모색 자리 마련돼 - 안전신문",
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5yU3BMLVhva2tFUGZlYXFlcXBGdnNqZFJrRWExRTRmMXhMeGJuV0ZRZjhmbmkxWmR6TUdJV2xmNm4zckp0cEFwRnhYWlN1S1AxblBUdnR0QzJveUxfaEhvZmc1NlNpREdqVG4yWUpSb28?oc=5",
+    "date": "2026-11-24",
+    "summary": "‘산업보건제도 합리적 개선’ 모색 자리 마련돼 안전신문",
+    "source": "안전신문",
+    "collected_at": "2026-11-25T08:38:50.203542+09:00",
+    "priority": "참고"
+  },
+  {
+    "id": "a0a98833086a2b3d41de",
+    "category": "법령·입법예고",
+    "title": "제주시, 하반기 근로자 산업안전보건 특별교육 실시 - 지금제주",
+    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5zZjBqZC00eC1waFVzdXdhUkx1Zm8tUG1EZ29xMlloWG50RXhJTG0wVjJMcUs1VTFFc0FuT3Z0MWpZV1lMbTRnTmk3N2k0UF8xeE5CVTRnY2hXZm9LTFhSSWR2Umgzd0F5WWt0d25n?oc=5",
+    "date": "2026-11-23",
+    "summary": "제주시, 하반기 근로자 산업안전보건 특별교육 실시 지금제주",
+    "source": "지금제주",
+    "collected_at": "2026-11-25T08:38:50.203542+09:00",
+    "priority": "일반"
+  },
+  {
+    "id": "b7092b5685a4265a8a56",
+    "category": "지원사업",
+    "title": "부산 강서구·고용노동부 부산북부지청·대한산업안전협회, 중대재해 예방 협약 - 부산일보",
+    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE11TnRuam5jWG45M19rWERlcDJDMkpYc0NubG1DNXdzY0Y4NXlHX0ZWU29GVlJYTkxWX0R1NkFVUnhFLUg0TlU4SXVQTU5oU1lySzRxejQ1b1JybGtoY0JpZl9hZ3ktMjZoTUhRX05mV25SMGJwNlg3Yw?oc=5",
+    "date": "2026-11-23",
+    "summary": "부산 강서구·고용노동부 부산북부지청·대한산업안전협회, 중대재해 예방 협약 부산일보",
+    "source": "부산일보",
+    "collected_at": "2026-11-25T08:38:50.203542+09:00",
+    "priority": "중요"
+  },
+  {
+    "id": "36ebd2a2b17f8d80809b",
+    "category": "지원사업",
+    "title": "부산 강서구·고용노동부 부산북부지청·(사)대한산업안전협회, 중대재해 예방에 힘 모은다 - 국제신문",
+    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQMGYzbzNKVFlrdlZ4dlYybkQwRFZaaTJEcTRKNHp6ZWYtVHllLV80VVVQUnhXb0NJNW93MDRfTDNTV05TTDAxZnNOeXQzcHV6X1kwLTlUZElsUVBETDZ5bno5dXhzRnRYMmg2eW9EcHZYOXNHX3pXM2NNajFNUUVMNEdaR2FDS3Y2eV9EMk9B?oc=5",
+    "date": "2026-11-23",
+    "summary": "부산 강서구·고용노동부 부산북부지청·(사)대한산업안전협회, 중대재해 예방에 힘 모은다 국제신문",
+    "source": "국제신문",
+    "collected_at": "2026-11-25T08:38:50.203542+09:00",
+    "priority": "중요"
+  },
+  {
     "id": "23af666c44f0d03219d2",
     "category": "화학물질 규제",
     "title": "고용노동부, 작은 사업장 건강지킴이 '근로자건강센터', 김포·포항에 새로 문 연다. - 시민행정신문",
@@ -195,6 +294,17 @@
     "summary": "삼성전자·SK하이닉스, 안전·환경경영 강화…대규모 증설 속 고도화 집중 블로터",
     "source": "블로터",
     "collected_at": "2026-11-23T13:44:11.337078+09:00",
+    "priority": "참고"
+  },
+  {
+    "id": "faa08d4abbe18aa5f879",
+    "category": "뉴스",
+    "title": "제물포구, 현장근로자 직무스트레스 관리 대책 추진 - 세정포커스",
+    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5UZW00aDZyakh0U2NmTkdRMHl5amZPZ2llZm1FN2pZV2dpVG5rZmJyekpWWFZfOFBDVjNiN040OWVHcmN5RjV3elhBTzF1UGxUcEFleEFsalZiTllTRU4zdGJKTGdaYW9FQ0NmRUhR?oc=5",
+    "date": "2026-11-20",
+    "summary": "제물포구, 현장근로자 직무스트레스 관리 대책 추진 세정포커스",
+    "source": "세정포커스",
+    "collected_at": "2026-11-25T08:38:50.203542+09:00",
     "priority": "참고"
   },
   {
