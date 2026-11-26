@@ -1,5 +1,60 @@
 [
   {
+    "id": "456cad09d46ab8d9fc70",
+    "category": "뉴스",
+    "title": "안전보건공단 '김포 근로자 건강센터' 개소... 현재 전국 26개소 운영 - 투데이에너지",
+    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5qYjhsc21vWUl6bkp4Wl82U3FkTm1iUFh1WnRRLXpSMm9uXzZGQnJNSjFZQnItREhKajRrRmlSZzVuNmtNVUlpaE85R2JhdXlFZGZ6c1JvV21YMEFQbjBIS3gwa1k5QzluejBLeWJn?oc=5",
+    "date": "2026-11-26",
+    "summary": "안전보건공단 '김포 근로자 건강센터' 개소... 현재 전국 26개소 운영 투데이에너지",
+    "source": "투데이에너지",
+    "collected_at": "2026-11-27T08:43:39.843859+09:00",
+    "priority": "일반"
+  },
+  {
+    "id": "a0059ec9753564e5b2aa",
+    "category": "공지·지침",
+    "title": "인천광역시교육청, 국제표준 안전보건경영시스템(ISO 45001) 인증 유지…부적합 0건 - 시사일보",
+    "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9raWVCYVpLam5RSGhhZ2FLU1QzOVd2Y0NSOTBjWm4xeUUzcUhTMkJKMDlaQVRMaVpiU1Q2akpoVWYxdHFiOHJia19JNTY?oc=5",
+    "date": "2026-11-26",
+    "summary": "인천광역시교육청, 국제표준 안전보건경영시스템(ISO 45001) 인증 유지…부적합 0건 시사일보",
+    "source": "시사일보",
+    "collected_at": "2026-11-27T08:43:39.843859+09:00",
+    "priority": "참고"
+  },
+  {
+    "id": "4ced0d6eaacb3b8f1c46",
+    "category": "공지·지침",
+    "title": "공무원연금공단, 노사·외부전문가 함께 안전보건경영방침 바꾼다 - 한국안전신문",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5CdDNpeHJIZEpGMHR5WXB0eWZjSmRvdk12SUpBeE9iYWNFZTU0RUFaMWJYcU1UV1ZzRjlyYVFzZlJHVXhvd1RQQkRjRWstRWhCQWFKR1hfSUl1NUV0ODRfRjNzb2UyclNa?oc=5",
+    "date": "2026-11-26",
+    "summary": "공무원연금공단, 노사·외부전문가 함께 안전보건경영방침 바꾼다 한국안전신문",
+    "source": "한국안전신문",
+    "collected_at": "2026-11-27T08:43:39.843859+09:00",
+    "priority": "참고"
+  },
+  {
+    "id": "b5faf78f02270aabc168",
+    "category": "공지·지침",
+    "title": "포항시, 388개 사업장 대상 현장 위험성평가로 중대재해 예방 총력 - 시사일보",
+    "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5CMVJzd2V5TXFIT2tVaEE5RzRTeFZmWUhRX2pkYS1rQ2JkYms5eVRGQjBhZTNvQVl2SUk4Y2pucHBrM3h3dUdvRmExYlo?oc=5",
+    "date": "2026-11-26",
+    "summary": "포항시, 388개 사업장 대상 현장 위험성평가로 중대재해 예방 총력 시사일보",
+    "source": "시사일보",
+    "collected_at": "2026-11-27T08:43:39.843859+09:00",
+    "priority": "중요"
+  },
+  {
+    "id": "6257a78bb5085a8fb525",
+    "category": "뉴스",
+    "title": "안전보건공단, '김포근로자건강센터' 개소… 물류·제조 현장 취약노동자 건강관리 지원 - 세이프티퍼스트닷뉴스",
+    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBXM1AtdHlEajBmeXdoZy1UY3hWaC04Z3MzbV9FNXlLaUxueUhTQTlfSzNQNlFzNldReC1ycGVoc0tJaFo3aDVBeUFYbU5NM2FkTmxjUWI5RUxpcEVxZndYZ3Z6MVhkdjB3d0lJUTVNMA?oc=5",
+    "date": "2026-11-25",
+    "summary": "안전보건공단, '김포근로자건강센터' 개소… 물류·제조 현장 취약노동자 건강관리 지원 세이프티퍼스트닷뉴스",
+    "source": "세이프티퍼스트닷뉴스",
+    "collected_at": "2026-11-27T08:43:39.843859+09:00",
+    "priority": "일반"
+  },
+  {
     "id": "84255ba44c7ff4c04c12",
     "category": "공지·지침",
     "title": "공무원연금公 안전경영위원회 열려… 안전보건경영방침 개정 등 논의 - 안전신문",
@@ -129,6 +184,17 @@
     "summary": "‘산업보건제도 합리적 개선’ 모색 자리 마련돼 안전신문",
     "source": "안전신문",
     "collected_at": "2026-11-25T08:38:50.203542+09:00",
+    "priority": "참고"
+  },
+  {
+    "id": "0beb25ebfae94519dd44",
+    "category": "지원사업",
+    "title": "고용노동부, 작은 사업장 건강지킴이 '근로자건강센터', 김포·포항에 새로 문 연다.:경찰연합신문 - 경찰연합신문",
+    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBkaktRQlAtX205ZElhOFAwM09ieHBwVmEyRVpicXBWUURzV1FLRFZsSGI0UjNfcGRYWm9Wc285UEhmay1hU1A5NU9VbHlSXzDSAWxBVV95cUxPSVhJZElMQm5MSVdyR2kxelJRUEkzZGRhZlc0eW5VNGRia1ZNMy1lTWl0a28yaUVzQlcydUZrRklmQjg2bmphUkd0TXh3LTN5MHJzQTIxSWRhQmo0aUtEZWo2U1dvVFVocEZpYnc?oc=5",
+    "date": "2026-11-23",
+    "summary": "고용노동부, 작은 사업장 건강지킴이 '근로자건강센터', 김포·포항에 새로 문 연다.:경찰연합신문 경찰연합신문",
+    "source": "경찰연합신문",
+    "collected_at": "2026-11-27T08:43:39.843859+09:00",
     "priority": "참고"
   },
   {
@@ -295,6 +361,17 @@
     "source": "미주중앙일보",
     "collected_at": "2026-11-23T13:44:11.337078+09:00",
     "priority": "참고"
+  },
+  {
+    "id": "3b2f07657040efb71a9f",
+    "category": "지원사업",
+    "title": "안전보건공단 인천본부, 삼성바이오로직스 등 3개사 근로자 건강증진 우수사업장 선정 - 기호일보",
+    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE11T0FHNmNzcnpodWJqY1BEUl9Yc1pQVllXMjdTcXVUbmk2bnA2dVloU1lZLWg3c3QyREtKa1R4U0VGY2pWT1JOVDNFdHRGOTNKck94a3Mwd0N6NGVnZUFVNzZ6ZUhTU3lQSjdoOEl5QQ?oc=5",
+    "date": "2026-11-22",
+    "summary": "안전보건공단 인천본부, 삼성바이오로직스 등 3개사 근로자 건강증진 우수사업장 선정 기호일보",
+    "source": "기호일보",
+    "collected_at": "2026-11-27T08:43:39.843859+09:00",
+    "priority": "일반"
   },
   {
     "id": "33319302a16898877e6d",
